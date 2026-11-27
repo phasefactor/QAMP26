@@ -28,6 +28,7 @@ Their current update status is give as: &#128997; not updated, &#129000; partial
 ### Quantum Challenges
 |     Year     |  Updated  |  URL  | 
 | :----------- | :-------: | :---- |
+| 2024         | &#128997; | https://github.com/qiskit-community/ibm-quantum-challenge-2024        |
 | 2023 Spring  | &#128997; | https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023 |
 | 2022 Fall    | &#128997; | https://github.com/qiskit-community/ibm-quantum-challenge-fall-22     |
 | 2022 Spring  | &#128997; | https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022 |
